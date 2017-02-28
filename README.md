@@ -1,1 +1,1 @@
-# [CV](https://wilmosfang.github.io/cv/)
+# [CV](http://cv.soft.dog/)
