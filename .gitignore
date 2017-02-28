@@ -5,7 +5,7 @@
 out/
 .DS_Store
 .svn
-.index.html.swp
+*.swp
 log/*.log
 tmp/**
 node_modules/
