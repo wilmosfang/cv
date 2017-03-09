@@ -30,22 +30,28 @@
   overflow: hidden; }
 
 .reveal .l1 {
-  font-size: 2em; }
+  font-size: 2em; 
+  color:#FF0000; }
 
 .reveal .l2 {
-  font-size: 1.5em; }
+  font-size: 1.5em; 
+  color:#FFFF00; }
 
 .reveal .l3 {
-  font-size: 1.2em; }
+  font-size: 1.2em; 
+  color:#00FF00; }	
 
 .reveal .l4 {
-  font-size: 1em; }
+  font-size: 1em; 
+  color:#00FFFF; }	
 
 .reveal .l5 {
-  font-size: 0.7em; }
+  font-size: 0.7em; 
+  color:#0000FF; }	
 
 .reveal .l6 {
-  font-size: 0.5em; }
+  font-size: 0.5em; 
+  color:#FF00FF; }	
 
 .reveal ul {
   font-size: 0.7em; }
